@@ -29,5 +29,6 @@ Literature
 
 In this assignment, we will implement the Independent Component Analysis algorithm as described in chapter 34 of David
 MacKay's book "Information Theory, Inference, and Learning Algorithms", which is freely available here:
+
 	http://www.inference.phy.cam.ac.uk/mackay/itila/book.html
 
