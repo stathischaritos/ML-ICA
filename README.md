@@ -1,10 +1,14 @@
-Machine Learning Lab
-=====================
+Machine Learning : Independent Component Analysis
+=================================================
+This is part of an assignment for the course Machine Learning Principles and Methods at UvA 2013
 
-LAB 1
-======
-Lab 1: Independent Component Analysis
---------------------------------------
+The full description of the assignment can be found at Lab1ICA.pdf or at the lab1.ipynb file which needs ipython installed to view it.
+The whole project needs to be done in ipython but it would be nice to also make it as a simple python project for future usage.
+
+For now i ve completed 1.1 and 1.2 of the assignment.
+
+Assignment Description:
+-----------------------
 Machine Learning: Principles and Methods, November 2013
 
 -	The lab exercises should be made in groups of three people, or at least two people.
